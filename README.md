@@ -6,4 +6,4 @@ Se implementan cuatro (4) algoritmos de búsqueda como: BreadthFirst, BreadthFir
 
 ## Lenguaje:
 
-* Python
+* Python 
